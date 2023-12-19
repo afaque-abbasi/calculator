@@ -1,0 +1,8 @@
+1st step:
+run tsc --init (this will create javascript file in your project)
+
+2nd step: 
+npm init -y (it will create pakage.jason file in your project file)
+
+npm i inquirer
+
